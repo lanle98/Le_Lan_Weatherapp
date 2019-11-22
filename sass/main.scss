@@ -1,0 +1,33 @@
+body {
+  height: 100vh;
+}
+
+.temp {
+  font-size: 200px;
+  font-weight: lighter;
+}
+
+.city-name {
+  font-size: 80px;
+}
+
+.main {
+  font-size: 50px;
+  font-weight: lighter;
+}
+
+.sunny {
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 164, 0, 1) 100%
+  );
+}
+
+.cloudy {
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(179, 179, 179, 1) 100%
+  );
+}
