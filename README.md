@@ -10,4 +10,4 @@ Weather app is a real-time application using open api from https://openweatherma
 * Clone the Repo ```git clone```
 * Install NodeJS packages by typing ``` npm install``` in terminal
 * In the Terminal run ``` npm start```
-* In the Browser go ``` localhost:4000```
+* In the Browser go ``` localhost:3000```
